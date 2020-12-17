@@ -8,5 +8,5 @@ Steps to predtict:
 1) We first import the required 'Housing.csv' file into the JupyterLab.
 2) Then we load the data into two variables X and y, where X stores multiple variables(independent parameters) and y store the dependent parameter i.e Price.
 3) Then we split the model into train and test sets and apply the linear regression.
-4) Then we predict the training and test sets using the linear regression model.
+4) Then we predict the train and test set results using the linear regression model.
 5) In the end we find the required errors.
